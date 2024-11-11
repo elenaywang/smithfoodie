@@ -15,7 +15,7 @@ I've made a tentative mockup of this project on Figma - you can check it out her
 With this project, I hope to develop a system that future students can continue to build on and further design to be more accessible for the current needs of the student population, as well as spark conversation about how students can be involved in improving the systems used at Smith. I plan to conclude working on this project by the end of the 2024 Fall semester. If you're interested in continuing this project beyond 2024 Fall, please let me know at ewang88@smith.edu!
 
 
-# Dev Environment Setup
+# Dev Environment Setup (still in progress)
 
 
 This README would normally document whatever steps are necessary to get the
