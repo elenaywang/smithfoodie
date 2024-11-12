@@ -9,11 +9,12 @@
 #   gem "activerecord-sqlserver-adapter"
 #
 default: &default
-  adapter: sqlserver
-  encoding: utf8
-  username: sa
-  password: <%= ENV["SA_PASSWORD"] %>
-  host: localhost
+  adapter: mysql2
+  encoding: utf8mb4
+  username: <%= ENV['MYSQL_USERNAME'] %>
+  password: <%= ENV['MYSQL_PASSWORD'] %>
+  socket: <%= ENV['MYSQL_SOCKET'] %>
+  host: localhost 
 
 development:
   <<: *default
