@@ -1,42 +1,31 @@
 # README
 
-Last revised: 2024/11/11
+Last revised: 2025/07/09
 
 # What is this project?
 
-Hi! I'm Elena, and I'm currently a senior Computer Science major and Psychology minor at Smith College. I'm really interested in the intersection of technology, psychology, and art, and I'm particularly interested in UI/UX design and human-computer interaction.
+Hi! I'm Elena, and I graduated from Smith College with a Computer Science major and Psychology minor. I'm really interested in the intersection of technology, psychology, and art, and I'm particularly interested in UI/UX design and human-computer interaction.
 
-The current systems officially employed by Smith are the [official dining menu website](https://www.smith.edu/diningservices/menu_poc/cbord_menus.php) for menus, the [Smith Dining Services website](https://www.smith.edu/your-campus/dining-menus/hours) for operating hours, and [NetNutrition](https://cbweb.smith.edu/NetNutrition/1) for nutritional information.
+As of Fall 2024, the current systems officially employed by Smith are the [official dining menu website](https://www.smith.edu/diningservices/menu_poc/cbord_menus.php) for menus, the [Smith Dining Services website](https://www.smith.edu/your-campus/dining-menus/hours) for operating hours, and [NetNutrition](https://cbweb.smith.edu/NetNutrition/1) for nutritional information.
 
-So this is my attempt at creating a more user-friendly and centralized website for Smith students to check dining menus and hours. And the cool thing is that it's designed for students, by a student! I'm planning to build this website with Ruby on Rails, React, a Microsoft SQL Server database, and Heroku.
+So this was my attempt at creating a more user-friendly and centralized website for Smith students to check dining menus and hours. And the cool thing is that it's designed for students, by a student! I was planning to build this website with Ruby on Rails, React, a Microsoft SQL Server database, and Heroku.
 
 I've made a tentative mockup of this project on Figma - you can check it out here: https://www.figma.com/proto/uzgpyqBvM4vdS6XelQkkiV/Smith-College-Foodie-website?node-id=27-30&node-type=canvas&t=xiSaKJH5scltwvZU-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=27%3A30. The UI design of this project takes light inspiration from GrubHub, which Smith officially uses for ordering on-campus food, and other common food delivery apps like Uber Eats.
 
-With this project, I hope to develop a system that future students can continue to build on and further design to be more accessible for the current needs of the student population, as well as spark conversation about how students can be involved in improving the systems used at Smith. I plan to conclude working on this project by the end of the 2024 Fall semester. If you're interested in continuing this project beyond 2024 Fall, please let me know at ewang88@smith.edu!
+With this project, I had hoped to develop a system that future students can continue to build on and further design to be more accessible for the current needs of the student population, as well as spark conversation about how students can be involved in improving the systems used at Smith.
 
 
-# Dev Environment Setup (still in progress)
+# Current Status of this Project
 
+I started working on this project during my junior and senior years at Smith as a passion project mostly outside of class. After Fall 2024, I was unable to continue working on this project, so there will no longer be any updates to this project. However, I am keeping this GitHub repo available to archive and document my efforts. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+My progress on this project includes:
+* connecting with Smith Dining Services and the Office of College Relations' Web Team to gather information about the current system
+* creating [my redesign](https://www.figma.com/proto/uzgpyqBvM4vdS6XelQkkiV/Smith-College-Foodie-website?node-id=27-30&node-type=canvas&t=xiSaKJH5scltwvZU-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=27%3A30) of the website in Figma
+* assessing the accessibility of my Figma design
+   * you can read my documentation in the [**documentation**](https://github.com/elenaywang/smithfoodie/tree/f53bf66095720fc17b4cf877680abea78f836a00/documentation) folder
+* gathering student feedback about the official Smith dining menu website and my Figma redesign
+* creating a GitHub repo to begin the codebase
+* configuring the settings to connect to Smith's official dining database
 
-Things you may want to cover:
-
-* **Ruby version:** 3.1.2
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Unfortunately, I did not have time to finish coding the website. However, as the project stands now, it is a solid foundation for the website I envisioned.
