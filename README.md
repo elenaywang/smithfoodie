@@ -8,7 +8,7 @@ Hi! I'm Elena, and I graduated from Smith College with a Computer Science major 
 
 As of Fall 2024, the current systems officially employed by Smith are the [official dining menu website](https://www.smith.edu/diningservices/menu_poc/cbord_menus.php) for menus, the [Smith Dining Services website](https://www.smith.edu/your-campus/dining-menus/hours) for operating hours, and [NetNutrition](https://cbweb.smith.edu/NetNutrition/1) for nutritional information.
 
-So this was my attempt at creating a more user-friendly and centralized website for Smith students to check dining menus and hours. And the cool thing is that it's designed for students, by a student! I was planning to build this website with Ruby on Rails, React, a Microsoft SQL Server database, and Heroku.
+So this was my attempt at creating a more user-friendly and centralized website for Smith students to check dining menus and hours. The idea was that for the selected time or meal, the website will display all of the places on campus where students can get food on campus, along with the corresponding hours, menus, and allergen information. And the cool thing is that it's designed for students, by a student! I was planning to build this website with Ruby on Rails, React, a Microsoft SQL Server database, and Heroku.
 
 I've made a tentative mockup of this project on Figma - you can check it out here: https://www.figma.com/proto/uzgpyqBvM4vdS6XelQkkiV/Smith-College-Foodie-website?node-id=27-30&node-type=canvas&t=xiSaKJH5scltwvZU-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=27%3A30. The UI design of this project takes light inspiration from GrubHub, which Smith officially uses for ordering on-campus food, and other common food delivery apps like Uber Eats.
 
