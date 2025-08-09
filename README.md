@@ -25,7 +25,9 @@ My work on this project includes:
 * assessing the accessibility of my Figma design
    * you can read my documentation in the [**documentation**](https://github.com/elenaywang/smithfoodie/tree/f53bf66095720fc17b4cf877680abea78f836a00/documentation) folder
 * gathering student feedback about the official Smith dining menu website and my Figma redesign
-* creating a GitHub repo to begin the codebase
-* configuring the settings to connect to Smith's official dining database
+   * check out the "Research Problems" section of my [**accessibility report**](https://github.com/elenaywang/smithfoodie/blob/f53bf66095720fc17b4cf877680abea78f836a00/documentation/The%20Accessibility%20of%20Smith%20Foodie%20report.pdf) for feedback on the official Smith dining menu website
+   * check out the "Proposed Solutions" section of my [**accessibility report**](https://github.com/elenaywang/smithfoodie/blob/f53bf66095720fc17b4cf877680abea78f836a00/documentation/The%20Accessibility%20of%20Smith%20Foodie%20report.pdf) for feedback on my Figma redesign
+* creating this GitHub repo to begin the codebase
+* configuring the settings to connect to Smith's official MicrosoftSQL database of dining information
 
 Unfortunately, I did not have time to finish coding the website. However, as the project stands now, it is a solid foundation for the website I envisioned.
