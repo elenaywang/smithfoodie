@@ -10,7 +10,7 @@ When I was still a student, Smith officially employed 4 different systems to pro
 
 This project was my attempt at creating a centralized and more user-friendly website for Smith students to check dining information. The idea was that for the selected time or meal, the website will display all of the places on campus where students can get food on campus, along with the corresponding hours, menus, and allergen information. And the cool thing is that it would have been designed for students, by a student! I was planning to build this website with Ruby on Rails, React, a Microsoft SQL Server database, and Heroku.
 
-I made a prototype of this project on Figma - you can check it out here: https://www.figma.com/proto/uzgpyqBvM4vdS6XelQkkiV/Smith-College-Foodie-website?node-id=27-30&node-type=canvas&t=xiSaKJH5scltwvZU-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=27%3A30. The UI design of this project takes inspiration from the official menu website, Grubhub, and common food delivery apps so that the UI feels familiar and intuitive. More information about my design and inspirations can be found [here]().
+I made a prototype of this project on Figma - you can check it out here: https://www.figma.com/proto/uzgpyqBvM4vdS6XelQkkiV/Smith-College-Foodie-website?node-id=27-30&node-type=canvas&t=xiSaKJH5scltwvZU-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=27%3A30. The UI design of this project takes inspiration from the official menu website, Grubhub, and common food delivery apps so that the UI feels familiar and intuitive. More information about my design and inspirations can be found [here](https://github.com/elenaywang/smithfoodie/blob/main/documentation/Smith%20Foodie%20Design%20Notes.pdf).
 
 With this project, I was hoping to develop a system that future students can continue to build on and further design to be more accessible for the current needs of the student population, as well as spark conversation about how students can be involved in improving the systems used at Smith.
 
@@ -22,7 +22,7 @@ I started working on this project during my junior and senior years at Smith as 
 My work on this project included:
 * connecting with Smith Dining Services and the Office of College Relations' Web Team to gather information about the current system
 * creating [my redesign](https://www.figma.com/proto/uzgpyqBvM4vdS6XelQkkiV/Smith-College-Foodie-website?node-id=27-30&node-type=canvas&t=xiSaKJH5scltwvZU-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=27%3A30) of the website in Figma
-   * check out the color scheme, logo design, old prototypes, and design inspirations in my [design notes]()
+   * check out the color scheme, logo design, old prototypes, and design inspirations in my [design notes](https://github.com/elenaywang/smithfoodie/blob/main/documentation/Smith%20Foodie%20Design%20Notes.pdf)
 * assessing the accessibility of my Figma design
    * check out my findings in the [**documentation**](https://github.com/elenaywang/smithfoodie/tree/main/documentation) folder
 * gathering student feedback about the official Smith dining menu website and my Figma redesign
